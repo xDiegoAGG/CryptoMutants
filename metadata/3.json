@@ -1,0 +1,13 @@
+{
+  "name": "Invadron",
+  "description": "CryptoMutant #3. Genetic permutation Cyber-Galactico: cybernetic chassis pushed forward by galactic propulsion. One of only 12 ordered gene pairs that can exist in this laboratory.",
+  "image": "ipfs://__IMAGES_CID__/3.png",
+  "external_url": "https://sepolia.etherscan.io",
+  "attributes": [
+    { "trait_type": "Primary Gene", "value": "Cyber" },
+    { "trait_type": "Secondary Gene", "value": "Galactico" },
+    { "trait_type": "HP", "value": 2361 },
+    { "trait_type": "Attack", "value": 353 },
+    { "trait_type": "Speed", "value": 9.55 }
+  ]
+}

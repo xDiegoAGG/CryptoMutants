@@ -1,0 +1,13 @@
+{
+  "name": "Geminium",
+  "description": "CryptoMutant #6. Genetic permutation Sable-Galactico: a sabretooth body trailing galactic dust. One of only 12 ordered gene pairs that can exist in this laboratory.",
+  "image": "ipfs://__IMAGES_CID__/6.png",
+  "external_url": "https://sepolia.etherscan.io",
+  "attributes": [
+    { "trait_type": "Primary Gene", "value": "Sable" },
+    { "trait_type": "Secondary Gene", "value": "Galactico" },
+    { "trait_type": "HP", "value": 2040 },
+    { "trait_type": "Attack", "value": 462 },
+    { "trait_type": "Speed", "value": 11.11 }
+  ]
+}

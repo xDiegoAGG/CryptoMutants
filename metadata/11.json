@@ -1,0 +1,13 @@
+{
+  "name": "Sundance Bug",
+  "description": "CryptoMutant #11. Genetic permutation Galactico-Sable: a galactic insectoid carrying sabretooth genes. One of only 12 ordered gene pairs that can exist in this laboratory.",
+  "image": "ipfs://__IMAGES_CID__/11.png",
+  "external_url": "https://sepolia.etherscan.io",
+  "attributes": [
+    { "trait_type": "Primary Gene", "value": "Galactico" },
+    { "trait_type": "Secondary Gene", "value": "Sable" },
+    { "trait_type": "HP", "value": 1807 },
+    { "trait_type": "Attack", "value": 355 },
+    { "trait_type": "Speed", "value": 13.89 }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Ejecutor",
+  "description": "CryptoMutant #4. Genetic permutation Sable-Cyber: a sabretooth frame reinforced with cybernetic plating. One of only 12 ordered gene pairs that can exist in this laboratory.",
+  "image": "ipfs://__IMAGES_CID__/4.png",
+  "external_url": "https://sepolia.etherscan.io",
+  "attributes": [
+    { "trait_type": "Primary Gene", "value": "Sable" },
+    { "trait_type": "Secondary Gene", "value": "Cyber" },
+    { "trait_type": "HP", "value": 2434 },
+    { "trait_type": "Attack", "value": 515 },
+    { "trait_type": "Speed", "value": 7.56 }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Nebulon",
+  "description": "CryptoMutant #12. Genetic permutation Galactico-Mitico: a galactic herald imbued with mythic radiance. One of only 12 ordered gene pairs that can exist in this laboratory.",
+  "image": "ipfs://__IMAGES_CID__/12.png",
+  "external_url": "https://sepolia.etherscan.io",
+  "attributes": [
+    { "trait_type": "Primary Gene", "value": "Galactico" },
+    { "trait_type": "Secondary Gene", "value": "Mitico" },
+    { "trait_type": "HP", "value": 1878 },
+    { "trait_type": "Attack", "value": 390 },
+    { "trait_type": "Speed", "value": 13.49 }
+  ]
+}

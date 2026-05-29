@@ -1,0 +1,13 @@
+{
+  "name": "Oriax",
+  "description": "CryptoMutant #8. Genetic permutation Mitico-Sable: mythic core wielding sabretooth claws. One of only 12 ordered gene pairs that can exist in this laboratory.",
+  "image": "ipfs://__IMAGES_CID__/8.png",
+  "external_url": "https://sepolia.etherscan.io",
+  "attributes": [
+    { "trait_type": "Primary Gene", "value": "Mitico" },
+    { "trait_type": "Secondary Gene", "value": "Sable" },
+    { "trait_type": "HP", "value": 2417 },
+    { "trait_type": "Attack", "value": 641 },
+    { "trait_type": "Speed", "value": 7.54 }
+  ]
+}

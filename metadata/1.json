@@ -1,0 +1,13 @@
+{
+  "name": "Dezinger",
+  "description": "CryptoMutant #1. Genetic permutation Cyber-Sable: a Cyber-dominant predator wired with sabretooth instincts. One of only 12 ordered gene pairs that can exist in this laboratory.",
+  "image": "ipfs://__IMAGES_CID__/1.png",
+  "external_url": "https://sepolia.etherscan.io",
+  "attributes": [
+    { "trait_type": "Primary Gene", "value": "Cyber" },
+    { "trait_type": "Secondary Gene", "value": "Sable" },
+    { "trait_type": "HP", "value": 2595 },
+    { "trait_type": "Attack", "value": 461 },
+    { "trait_type": "Speed", "value": 6.78 }
+  ]
+}

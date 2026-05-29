@@ -1,0 +1,13 @@
+{
+  "name": "Valkiria",
+  "description": "CryptoMutant #5. Genetic permutation Sable-Mitico: sabretooth ferocity blessed with mythic resonance. One of only 12 ordered gene pairs that can exist in this laboratory.",
+  "image": "ipfs://__IMAGES_CID__/5.png",
+  "external_url": "https://sepolia.etherscan.io",
+  "attributes": [
+    { "trait_type": "Primary Gene", "value": "Sable" },
+    { "trait_type": "Secondary Gene", "value": "Mitico" },
+    { "trait_type": "HP", "value": 2345 },
+    { "trait_type": "Attack", "value": 605 },
+    { "trait_type": "Speed", "value": 7.94 }
+  ]
+}

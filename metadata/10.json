@@ -1,0 +1,13 @@
+{
+  "name": "Aniquilador",
+  "description": "CryptoMutant #10. Genetic permutation Galactico-Cyber: a void-born hunter shielded with cybernetic alloys. One of only 12 ordered gene pairs that can exist in this laboratory.",
+  "image": "ipfs://__IMAGES_CID__/10.png",
+  "external_url": "https://sepolia.etherscan.io",
+  "attributes": [
+    { "trait_type": "Primary Gene", "value": "Galactico" },
+    { "trait_type": "Secondary Gene", "value": "Cyber" },
+    { "trait_type": "HP", "value": 1967 },
+    { "trait_type": "Attack", "value": 300 },
+    { "trait_type": "Speed", "value": 13.11 }
+  ]
+}

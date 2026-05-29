@@ -1,0 +1,29 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+package-lock.json
+
+# Build artifacts
+metadata-final/
+artifacts/
+cache/
+build/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Remix workspace files
+.deps/
+remix.config*.json
+.prettierrc.json
+
+# Secrets / env
+.env
+.env.local
+*.key

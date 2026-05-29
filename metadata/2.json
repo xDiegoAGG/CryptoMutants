@@ -1,0 +1,13 @@
+{
+  "name": "Autonoraptor",
+  "description": "CryptoMutant #2. Genetic permutation Cyber-Mitico: a Cyber-core engine animated by mythic protocols. One of only 12 ordered gene pairs that can exist in this laboratory.",
+  "image": "ipfs://__IMAGES_CID__/2.png",
+  "external_url": "https://sepolia.etherscan.io",
+  "attributes": [
+    { "trait_type": "Primary Gene", "value": "Cyber" },
+    { "trait_type": "Secondary Gene", "value": "Mitico" },
+    { "trait_type": "HP", "value": 2666 },
+    { "trait_type": "Attack", "value": 496 },
+    { "trait_type": "Speed", "value": 6.38 }
+  ]
+}

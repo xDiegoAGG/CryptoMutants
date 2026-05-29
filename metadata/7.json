@@ -1,0 +1,13 @@
+{
+  "name": "Tecno Tao",
+  "description": "CryptoMutant #7. Genetic permutation Mitico-Cyber: ancient mythic essence channeled through cyber circuits. One of only 12 ordered gene pairs that can exist in this laboratory.",
+  "image": "ipfs://__IMAGES_CID__/7.png",
+  "external_url": "https://sepolia.etherscan.io",
+  "attributes": [
+    { "trait_type": "Primary Gene", "value": "Mitico" },
+    { "trait_type": "Secondary Gene", "value": "Cyber" },
+    { "trait_type": "HP", "value": 2577 },
+    { "trait_type": "Attack", "value": 586 },
+    { "trait_type": "Speed", "value": 6.76 }
+  ]
+}
